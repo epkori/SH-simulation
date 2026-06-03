@@ -5,7 +5,7 @@ This repository contains the MATLAB scripts used for simulating a specific Shack
 
 ## Prerequisites
 * MATLAB (version 2020 or newer)
-* 
+
 ## ⚠️ Data Setup (Required)
 Because the raw height map data is too large for version control, it is hosted on the cloud. **The scripts may fail to run if you do not download the data first.**
 
